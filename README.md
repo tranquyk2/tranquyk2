@@ -10,5 +10,8 @@
 ## 👀 Lượt xem
 <img src="https://profile-counter.glitch.me/tranquy_02/count.svg" alt="Visitor Count" />
 
+## 📱 Kết nối với tôi
+[![X](https://img.shields.io/badge/X-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tranquy_02)
+
 
 
