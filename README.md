@@ -7,5 +7,8 @@
 ## 🛠️ Công cụ & Kỹ năng
 ![Skills Radar](https://github-readme-stats.vercel.app/api/top-langs/?username=tranquyk2&langs_count=6&theme=radical&custom_title=Skills%20Radar)
 
+## 👀 Lượt xem
+<img src="https://profile-counter.glitch.me/tranquy_02/count.svg" alt="Visitor Count" />
+
 
 
