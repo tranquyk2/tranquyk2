@@ -12,6 +12,8 @@
 
 ## 📱 Kết nối với tôi
 [![X](https://img.shields.io/badge/X-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tranquy_02)
+[![Facebook](https://img.shields.io/badge/X-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=Blue)]([[https://x.com/tranquy_02](https://www.facebook.com/tranquy0206)](https://www.facebook.com/tranquy0206))
+
 
 
 
