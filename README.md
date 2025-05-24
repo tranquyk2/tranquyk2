@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=05FFF6&width=435&lines=Welcome+to+Bean;Please+give+me+1+star)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=05FFF6&width=435&lines=Welcome+to+Bean;Please+give+my+repo+a+%E2%AD%90+if+you+think+it's+good)](https://git.io/typing-svg)
+
 # 🚀 Kỹ năng của tôi
 
 ## 📊 Ngôn ngữ lập trình
