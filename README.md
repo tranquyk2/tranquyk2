@@ -1,4 +1,3 @@
-![Build Status](https://github.com/tranquyk2/web_upload_app/workflows/CI/badge.svg)                                  
 
 # 🚀 Kỹ năng của tôi
 
