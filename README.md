@@ -7,6 +7,15 @@
 ## 🛠️ Công cụ & Kỹ năng
 ![Skills Radar](https://github-readme-stats.vercel.app/api/top-langs/?username=tranquyk2&langs_count=6&theme=radical&custom_title=Skills%20Radar)
 
+## 🛠 Dự án nổi bật
+### Arduino IoT
+<img src="[https://your-image-link.com/arduino-demo.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxxdWl1eWdrNWljdGV4MXpyOTZ2bXR1NDBrZDRzMGxsczdndzloeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mFDWuDppjQJjite6FS/giphy.webp)" alt="Arduino Demo" width="400" />
+[Xem code]([https://github.com/tranquy_02/iot-project](https://github.com/tranquyk2/weather-esp32))
+
+### Web 
+<img src="[https://your-image-link.com/web-game.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB1aGIyZndobmlqODZrazl3cXZrY3ZpZHBpaXY5YWMzcnB0YmF2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/100.webp)" alt="Web Game Demo" width="400" />
+[Xem code]([https://tranquy_02.github.io/web-gam](https://github.com/tranquyk2/web_upload_app)e)
+
 ## 👀 Lượt xem
 <img src="https://profile-counter.glitch.me/tranquy_02/count.svg" alt="Visitor Count" />
 
