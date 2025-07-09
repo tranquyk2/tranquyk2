@@ -7,10 +7,6 @@
 ## 🛠️ Tools & Skills
 ![Skills Radar](https://github-readme-stats.vercel.app/api/top-langs/?username=tranquyk2&langs_count=6&theme=radical&custom_title=Skills%20Radar)
 
-
-
-## 👀 Views
-![Profile views](https://komarev.com/ghpvc/?username=tranquy_02&color=blue)
 ## 📱 Connect with Me
 [![](https://img.shields.io/badge/x-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tranquy_02)
 [![Facebook](https://img.shields.io/badge/Facebook-TranQuy-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tranquy0206)
