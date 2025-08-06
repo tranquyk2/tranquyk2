@@ -10,7 +10,6 @@
 ## 📱 Connect with Me
 [![](https://img.shields.io/badge/x-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tranquy_02)
 [![Facebook](https://img.shields.io/badge/Facebook-TranQuy-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tranquy0206)
-[![Instagram](https://img.shields.io/badge/Instagram-@tranquy_02-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tranquy_02)
 
 
 
