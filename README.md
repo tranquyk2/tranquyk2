@@ -3,6 +3,7 @@
 
 ## 📊 Programming Languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranquyk2&layout=compact&theme=radical&hide=html)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranquyk2&show_icons=true&theme=transparent)
 
 ## 🛠️ Tools & Skills
 ![Skills Radar](https://github-readme-stats.vercel.app/api/top-langs/?username=tranquyk2&langs_count=6&theme=radical&custom_title=Skills%20Radar)
