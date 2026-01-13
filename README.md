@@ -2,7 +2,7 @@
 
 ## 🔥 Ngôn ngữ 
 
-![Top Langs](https://github-readme-stats-io1jnwby0-tranquyk2s-projects.vercel.app/api/top-langs?username=tranquyk2&layout=compact&cache_bust=123)
+<img src="https://github-readme-stats-io1jnwby0-tranquyk2s-projects.vercel.app/api/top-langs?username=tranquyk2&layout=compact" />
 
 ## 📱 Connect with Me
 [![](https://img.shields.io/badge/x-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tranquy_02)
