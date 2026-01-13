@@ -2,7 +2,8 @@
 
 ## 🔥 Ngôn ngữ 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranquyk2&layout=compact)
+![Top Langs](https://github-readme-stats-tranquyk2s-projects.vercel.app/api/top-langs?username=tranquyk2&layout=compact&v=2)
+
 
 
 ## 📱 Connect with Me
