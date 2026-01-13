@@ -2,7 +2,7 @@
 
 ## 🔥 Ngôn ngữ 
 
-![GitHub Stats](https://github-readme-stats-git-master-tranquyk2s-projects.vercel.app/api?username=tranquyk2&show_icons=true&theme=vue-conf&v=1)
+<img src="https://github-readme-stats-git-master-tranquyk2s-projects.vercel.app/api?username=tranquyk2&show_icons=true&theme=vue-conf" alt="tranquyk2 stats" />
 
 ## 📱 Connect with Me
 [![](https://img.shields.io/badge/x-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tranquy_02)
