@@ -3,6 +3,7 @@
 ## 📱 Connect with Me
 [![](https://img.shields.io/badge/-@tranquy_02-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tranquy_02)
 [![Facebook](https://img.shields.io/badge/Facebook-TranQuy-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tranquyk2)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranquyk2&show_icons=true&theme=tokyonight)](https://github.com/tranquyk2)
 
 
 
